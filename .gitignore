@@ -1,0 +1,14 @@
+# files created by emacs
+*~
+
+# files created by eclipse
+.project
+.classpath
+.settings/
+
+# files created by Katalon Studio
+bin/
+Libs/
+Reports/
+settings/
+
